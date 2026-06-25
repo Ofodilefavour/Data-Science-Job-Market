@@ -1,4 +1,3 @@
- # Data-Science-Job-Market
  # 📊 Data Science Job Market Analysis
 
 ![Dashboard Banner](Overview.png)
