@@ -100,8 +100,6 @@ GROUP BY Work_Year
 ORDER BY Work_Year;
 ```
 
-> ⚙️ Run these queries by importing the dataset into your preferred SQL environment (MySQL, PostgreSQL, or SQL Server).
-
 ---
 
 ## 📊 Dashboard Pages
@@ -233,9 +231,9 @@ An exploration of how geography and company characteristics influence salaries a
 
 ## 👤 Author
 
-**[Your Name]**
-- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**[ofodile Favour Chinonyerem]**
+- 🔗 GitHub: [github.com/Ofodilefavour/Data-science-Job-market](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/Favour ofodile](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -245,5 +243,3 @@ This project is intended for **educational and portfolio purposes only**.
 Dataset sourced from publicly available data science salary records.
 
 ---
-
-*⭐ If you found this project helpful, feel free to star the repository!*
