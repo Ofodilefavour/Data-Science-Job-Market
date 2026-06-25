@@ -134,7 +134,7 @@ A high-level summary of the entire job market with key KPIs and breakdowns.
 
 ### Page 2 – Market Trends & Dynamics
 
-![Market Trends](Market_Trend.png)
+![Market Trends](Market Trend.png)
 
 A deeper look at salary trends over time and the distribution across roles and work models.
 
@@ -161,7 +161,7 @@ A deeper look at salary trends over time and the distribution across roles and w
 
 ### Page 3 – Geographic & Company Insights
 
-![Geographic Insights](Geographic_Insights.png)
+![Geographic Insights](Geographic Insights.png)
 
 An exploration of how geography and company characteristics influence salaries and job availability.
 
