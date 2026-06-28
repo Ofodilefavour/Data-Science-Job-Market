@@ -121,7 +121,7 @@ A high-level summary of the entire job market with key KPIs and breakdowns.
 
 #### 📈 Visuals
 
-- **Bar Chart** — Number of experience levels by work year *(peak in 2023)*
+- **Bar Chart** - Job Postings by Year *(peak in 2023)*
 - **Donut Chart** — Experience level distribution *(Senior-Level leads at 62.21%)*
 - **Horizontal Bar Chart** — Salary count by experience level
 - **Donut Chart** — Employment type by work model *(Remote leads at 57.78%)*
